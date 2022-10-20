@@ -1,5 +1,5 @@
 <h1 align="center">💫 Peps call me Lisk 💫</h1>
-<h3 align="center">A dude who is passionate about programming</h3>
+<h3 align="center">A guy , passionate abt programming</h3>
 
 - 🌱 I’m currently learning improving my skills on **Python & Javascript**
 
