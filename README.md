@@ -34,9 +34,5 @@ class Developer:
 ![Top Contributed](https://github-contributor-stats.vercel.app/api?username=LISK819129&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-krishna-5a51b4285/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/notfrbro)
-
----
-*"Talk is cheap. Show me the code."* - Linus Torvalds
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=LISK819129&icon=0&color=0)
