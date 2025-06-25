@@ -1,4 +1,4 @@
-# 💫 Hey there, I'm Atul! 
+# 💫 Hey , I'm Atul! 
 
 > *A passionate developer who turns coffee into code* ☕→💻
 
