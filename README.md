@@ -6,7 +6,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "LISK"
+        self.name = "Atul Krishna"
         self.role = "Full Stack Developer"
         self.language_spoken = ["Python", "JavaScript", "Human"]
         self.current_focus = "Leveling up my Python & JS skills"
