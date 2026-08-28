@@ -1,38 +1,49 @@
-# 💫 Hey , I'm Atul! 
+<div align="center">
 
-> *A passionate developer who turns coffee into code* ☕→💻
+# hey, i'm atul 👋
 
-## 🚀 About Me
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Atul Krishna"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "Human"]
-        self.current_focus = "Leveling up my Python & JS skills"
-        self.fun_fact = "I debug with print statements and I'm not ashamed"
-```
+### yea i create n develop stuff
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=LISK819129&theme=dark&hide_border=false)
+</div>
 
-## 🛠️ Languages & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LISK819129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+i build things, break things, and (occasionally) learn along the way.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+no fancy stats here, just vibes and code.
 
-## 🏆 Top Contributed Repositories
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=LISK819129&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-krishna-5a51b4285/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/notfrbro)
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-CaptainDash-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/46277754)
+[![Discord](https://img.shields.io/badge/Discord-notfrbro-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/680256568914083907)
+[![Email](https://img.shields.io/badge/Email-official%20stuff%20only-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atul60930@gmail.com)
+
+</div>
+
+> who uses email fr
+
+---
+
+### what i use mostly
+
+**languages:** Python · JS · HTML · CSS
+
+**pixel art:** Aseprite · Piskel
+
+**messing around:** Fresco · Sketchbook
+
+**indie games:** GDScript (mostly) · sometimes C#
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Godot](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-7F1CB0?style=flat-square&logo=aseprite&logoColor=white)
+
+</div>
