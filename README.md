@@ -12,8 +12,6 @@ i build things, break things, and (occasionally) learn along the way.
 
 no fancy stats here, just vibes and code.
 
-i make small, strange, interactive things for the web — mostly for fun, sometimes for no reason at all. bit of a designer too, bit of a pixel art nerd, bit of a "let's see what happens if i do this" kind of dev. i write notes and post experiments on my site — check out my [blog](https://atuley.space) if you're into that.
-
 ---
 
 <div align="center">
@@ -36,3 +34,7 @@ i make small, strange, interactive things for the web — mostly for fun, someti
 **messing around:** Fresco · Sketchbook
 
 **indie games:** GDScript (mostly) · sometimes C#
+
+---
+
+<sub>i write stuff sometimes → [atuley.space](https://atuley.space) in case you wanna read what i wrote</sub>
