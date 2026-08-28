@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm atul 👋
+# hey, i'm Atul 👋
 
 ### yea i create n develop stuff
 
@@ -10,7 +10,6 @@
 
 i build things, break things, and (occasionally) learn along the way.
 
-no fancy stats here, just vibes and code.
 
 ---
 
