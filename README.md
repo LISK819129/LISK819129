@@ -12,10 +12,13 @@ i build things, break things, and (occasionally) learn along the way.
 
 no fancy stats here, just vibes and code.
 
+i make small, strange, interactive things for the web — mostly for fun, sometimes for no reason at all. bit of a designer too, bit of a pixel art nerd, bit of a "let's see what happens if i do this" kind of dev. i write notes and post experiments on my site — check out my [blog](https://atuley.space) if you're into that.
+
 ---
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-krishna-5a51b4285/)
 [![Steam](https://img.shields.io/badge/Steam-CaptainDash-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/46277754)
 [![Discord](https://img.shields.io/badge/Discord-notfrbro-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/680256568914083907)
 [![Email](https://img.shields.io/badge/Email-who%20uses%20email%20fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atul60930@gmail.com)
@@ -26,13 +29,10 @@ no fancy stats here, just vibes and code.
 
 ### what i use mostly
 
-```python
-class Atul:
-    def __init__(self):
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.game_dev = ["GDScript", "C# (sometimes)"]
-        self.pixel_art = ["Aseprite", "Piskel"]
-        self.messing_around_with = ["Fresco", "Sketchbook"]
-        self.currently_doing = "creating n developing stuff"
-        self.fun_fact = "yea that's basically it"
-```
+**languages:** Python · JS · HTML · CSS
+
+**pixel art:** Aseprite · Piskel
+
+**messing around:** Fresco · Sketchbook
+
+**indie games:** GDScript (mostly) · sometimes C#
