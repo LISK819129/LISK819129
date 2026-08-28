@@ -18,6 +18,6 @@ email → atul60930@gmail.com (who uses email fr)
 
 
 
-i write stuff sometimes, if you wish to checkit out → [atuley.space](https://atuley.space)
+i write stuff sometimes, if you wish to check it out → [atuley.space](https://atuley.space)
 
 <br clear="left"/>
