@@ -1,23 +1,27 @@
+# Hi, I'm Octocat
 
+I make small weird things. Currently working on OpenNPC and a game about being
+in the wrong place at the wrong time.
 
-### hey, i'm Atul
+- [OpenNPC](https://github.com/octocat/opennpc) — local NPC brains
+- [Desktop Drifter](https://github.com/octocat/desktop-drifter) — a thing that lives on your taskbar
 
-i make small, strange, interactive things for the web, indie games, pixel art sometimes, whatever seems fun that week.
+Somewhere else: [website](https://example.com)
 
-pixel art in aseprite / piskel, messing around in fresco and sketchbook, indie games in godot (gdscript, sometimes c#), and the rest of it in python / js / html / css.
+---
 
-<br clear="left"/>
+<!-- GITCOMMENT:START -->
 
+<table>
+<tr><td colspan="2"><b>guestbook</b><br><sub>little messages from people passing by.</sub></td></tr>
+<tr><td width="60" align="center" valign="top"><a href="https://github.com/octocat"><img src="https://avatars.githubusercontent.com/u/583231?s=80&amp;v=4" width="40" height="40" alt="octocat"></a></td><td valign="top"><a href="https://github.com/octocat"><b>octocat</b></a> · <sub><span title="2026-09-21">25m ago</span></sub><br>found you through OpenNPC. really cool project</td></tr>
+<tr><td width="60" align="center" valign="top"><a href="https://github.com/monalisa"><img src="https://avatars.githubusercontent.com/u/9919?s=80&amp;v=4" width="40" height="40" alt="monalisa"></a></td><td valign="top"><a href="https://github.com/monalisa"><b>monalisa</b></a> · <sub><span title="2026-09-20">19h ago</span></sub><br>+rep</td></tr>
+<tr><td width="60" align="center" valign="top"><a href="https://github.com/hubot"><img src="https://avatars.githubusercontent.com/u/4004?s=80&amp;v=4" width="40" height="40" alt="hubot"></a></td><td valign="top"><a href="https://github.com/hubot"><b>hubot</b></a> · <sub><span title="2026-09-17">4d ago</span></sub><br>Desktop Drifter is sick :)</td></tr>
+<tr><td colspan="2" align="center"><sub><a href="https://github.com/octocat/octocat/discussions/1">leave a message</a> · <a href="https://github.com/octocat/octocat/discussions/1">older messages (9)</a></sub></td></tr>
+</table>
 
-steam curator (dev picks) → [CaptainDash](https://store.steampowered.com/curator/46277754)<br>
-discord → notfrbro<br>
-linkedin → [atul krishna](https://www.linkedin.com/in/atul-krishna-5a51b4285/)<br>
-email → atul60930@gmail.com (who check email fr)
+<!-- GITCOMMENT:END -->
 
-<br clear="right"/>
-
-
-
-i write stuff sometimes, if you wish to check it out → [atuley.space](https://atuley.space/blog)
-
-<br clear="left"/>
+Everything between those two markers is written by
+[GitComment](https://github.com/OWNER/gitcomment). The rest of this file is
+mine.
