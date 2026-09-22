@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="189" viewBox="0 0 880 189" role="img" aria-label="Comments">
+<style>
+.t { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; fill: #1a7f37; }
+.u { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.5px; font-weight: 600; fill: #1a7f37; }
+.m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #1f2328; }
+.d { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11.5px; fill: #8b949e; }
+.dim { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12.5px; fill: #9aa4b0; }
+.art { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; fill: #1a7f37; opacity: 0.85; }
+</style>
+<rect x="1" y="1" width="878" height="187" rx="10" fill="none" stroke="#d0d7de"/>
+<circle cx="26" cy="30" r="5.5" fill="#ff5f57"/>
+<circle cx="44" cy="30" r="5.5" fill="#febc2e"/>
+<circle cx="62" cy="30" r="5.5" fill="#28c840"/>
+<text x="82" y="35" class="t">Comments</text>
+<g>
+<text x="34" y="92" class="u">|</text>
+<text x="50" y="92" class="u">&gt;</text>
+<clipPath id="dDC_kwDOFlpXH84BGwNL"><circle cx="78" cy="87" r="11"/></clipPath><image href="data:image/jpeg;base64,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" x="67" y="76" width="22" height="22" clip-path="url(#dDC_kwDOFlpXH84BGwNL)" preserveAspectRatio="xMidYMid slice"/>
+<text x="98" y="92" class="u">LISK819129</text>
+<text x="326" y="92" class="d">22 Sep, 2026</text>
+<text x="98" y="116" class="m">Hello There! +1 rep</text>
+<path d="M60 98 L60 121" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
+</g>
+<text x="60" y="171" class="u">_<tspan fill="#1a7f37">█</tspan></text>
+<text x="596" y="48" class="dim">// little messages from</text>
+<text x="596" y="66" class="dim">// people passing by.</text>
+<text x="596" y="84" class="dim">// keep building.</text>
+<text x="806" y="42" class="art" xml:space="preserve">/\__/\</text>
+<text x="806" y="56" class="art" xml:space="preserve">( •_• )</text>
+<text x="806" y="70" class="art" xml:space="preserve">  \|</text>
+<text x="806" y="84" class="art" xml:space="preserve">   |</text>
+<text x="806" y="98" class="art" xml:space="preserve">  |_|_,</text>
+</svg>
