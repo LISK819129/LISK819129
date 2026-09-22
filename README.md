@@ -19,7 +19,7 @@ email → atul60930@gmail.com (who check email fr)
 
 <!-- GITCOMMENT:START -->
 
-<a href="https://github.com/LISK819129/LISK819129/discussions/1"><img src=".github/gitcomment/comments-pink.svg?v=b3559e2578" alt="Comments" width="880"></a>
+<a href="https://github.com/LISK819129/LISK819129/discussions/1"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/gitcomment/comments-pink-dark.svg?v=565f59b494"><img src=".github/gitcomment/comments-pink-light.svg?v=c6d27bb805" alt="Comments" width="880"></picture></a>
 
 <sub><a href="https://github.com/LISK819129/LISK819129/discussions/1">leave a message</a></sub>
 
