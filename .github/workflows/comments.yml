@@ -16,6 +16,6 @@ jobs:
       contents: write
       discussions: read
     steps:
-      - uses: LISK819129/GitComment@main
+      - uses: LISK819129/GitComment@v1
         with:
           discussion-number: 1
