@@ -1,8 +1,8 @@
 title: "Comments"
 subtitle: "little messages from people passing by."
 
-theme: pink
-variant: transparent
+theme: dev
+variant: light
 
 max_comments: 6
 message_max_length: 240
