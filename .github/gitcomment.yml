@@ -2,7 +2,7 @@ title: "Comments"
 subtitle: "little messages from people passing by."
 
 theme: dev
-variant: dark
+variant: light
 
 max_comments: 6
 message_max_length: 240
