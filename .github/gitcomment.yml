@@ -4,6 +4,8 @@ subtitle: "little messages from people passing by."
 theme: dev
 variant: light
 
+filter_profanity: true
+
 max_comments: 6
 message_max_length: 240
 
