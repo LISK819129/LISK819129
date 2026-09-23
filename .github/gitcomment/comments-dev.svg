@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="504" viewBox="0 0 880 504" role="img" aria-label="Comments">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="523" viewBox="0 0 880 523" role="img" aria-label="Comments">
 <style>
 .t { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; fill: #1a7f37; }
 .u { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.5px; font-weight: 600; fill: #1a7f37; }
@@ -7,7 +7,7 @@
 .dim { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12.5px; fill: #9aa4b0; }
 .art { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 12px; fill: #1a7f37; opacity: 0.85; }
 </style>
-<rect x="1" y="1" width="878" height="502" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="1" y="1" width="878" height="521" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="26" cy="30" r="5.5" fill="#ff5f57"/>
 <circle cx="44" cy="30" r="5.5" fill="#febc2e"/>
 <circle cx="62" cy="30" r="5.5" fill="#28c840"/>
@@ -60,13 +60,14 @@
 <g>
 <text x="34" y="407" class="u">|</text>
 <text x="50" y="407" class="u">&gt;</text>
-<clipPath id="dDC_kwDOFlpXH84BGxni"><circle cx="78" cy="402" r="11"/></clipPath><image href="data:image/png;base64,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" x="67" y="391" width="22" height="22" clip-path="url(#dDC_kwDOFlpXH84BGxni)" preserveAspectRatio="xMidYMid slice"/>
-<text x="98" y="407" class="u">zaidsharief0786</text>
+<clipPath id="dDC_kwDOFlpXH84BGxLn"><circle cx="78" cy="402" r="11"/></clipPath><image href="data:image/jpeg;base64,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" x="67" y="391" width="22" height="22" clip-path="url(#dDC_kwDOFlpXH84BGxLn)" preserveAspectRatio="xMidYMid slice"/>
+<text x="98" y="407" class="u">Kabshah</text>
 <text x="326" y="407" class="d">22 Sep, 2026</text>
-<text x="98" y="431" class="m">Testing Gitcomments ig?</text>
-<path d="M60 413 L60 436" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
+<text x="98" y="431" class="m">This is lowkey such a sick use of GitHub Discussions</text>
+<text x="98" y="450" class="m">ngl🫡</text>
+<path d="M60 413 L60 455" stroke="#d0d7de" stroke-width="1.5" fill="none"/>
 </g>
-<text x="60" y="486" class="u">_<tspan fill="#1a7f37">█</tspan></text>
+<text x="60" y="505" class="u">_<tspan fill="#1a7f37">█</tspan></text>
 <text x="596" y="48" class="dim">// little messages from</text>
 <text x="596" y="66" class="dim">// people passing by.</text>
 <text x="596" y="84" class="dim">// keep building.</text>
