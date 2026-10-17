@@ -14,9 +14,9 @@ email → atul60930@gmail.com (who check email fr)
 
 
 
+↓ and i did build this comment box, smth Github never offered you yea? Check it out and drop a comment :)
 <br clear="right"/>
 
-↓ and i did build this comment box, smth Github never offered you yea? Check it out and drop a comment :)
 ---
 
 <!-- GITCOMMENT:START -->
