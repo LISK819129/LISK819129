@@ -12,12 +12,11 @@ discord → notfrbro<br>
 linkedin → [atul krishna](https://www.linkedin.com/in/atul-krishna-5a51b4285/)<br>
 email → atul60930@gmail.com (who check email fr)
 
-↓  and i did build this comment box, smth Github never offered you yea? Check it out and drop a comment :)
-↓
+and i did build this comment box, smth Github never offered you yea? Check it out and drop a comment :)
 
 <br clear="right"/>
 
-
+↓
 ---
 
 <!-- GITCOMMENT:START -->
