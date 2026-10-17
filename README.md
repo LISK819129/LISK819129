@@ -2,7 +2,7 @@
 
 I make small, strange, interactive things for the web, indie games, train AI models to become the next ultron, build developer tools and pixel art sometimes, mostly relying on whatever seems fun that week.
 
-pixel art in aseprite / piskel, messing around in fresco and sketchbook, indie games in godot (gdscript, sometimes c#), and the rest of it in python / js / html / css.
+pixel art in aseprite / piskel, messing around in fresco and sketchbook, indie games in godot (gdscript,c#), and the rest of it in python / js / html / css.
 
 <br clear="left"/>
 
