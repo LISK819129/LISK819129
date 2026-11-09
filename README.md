@@ -1,4 +1,4 @@
-### hey, i'm Atul
+### Hey, I'm Atul
 
 I make small, strange, interactive things for the web, indie games, train AI models to become the next ultron, build developer tools and pixel art sometimes, mostly relying on whatever seems fun that week.
 
